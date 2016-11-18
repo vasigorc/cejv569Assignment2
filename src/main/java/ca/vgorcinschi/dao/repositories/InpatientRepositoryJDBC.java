@@ -1,6 +1,6 @@
 package ca.vgorcinschi.dao.repositories;
 
-import static ca.vgorcinschi.CommonUtil.localToSql;
+import static ca.vgorcinschi.util.CommonUtil.localToSql;
 import ca.vgorcinschi.model.Inpatient;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;

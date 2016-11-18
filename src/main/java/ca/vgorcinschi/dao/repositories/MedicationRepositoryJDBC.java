@@ -1,6 +1,6 @@
 package ca.vgorcinschi.dao.repositories;
 
-import static ca.vgorcinschi.CommonUtil.localToSql;
+import static ca.vgorcinschi.util.CommonUtil.localToSql;
 import ca.vgorcinschi.dao.repositories.helpers.MedicationBatchPreparedStatementSetter;
 import ca.vgorcinschi.dao.repositories.helpers.MedicationPreparedStatementSetter;
 import ca.vgorcinschi.model.Medication;

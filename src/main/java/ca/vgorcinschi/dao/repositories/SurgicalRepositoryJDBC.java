@@ -1,6 +1,6 @@
 package ca.vgorcinschi.dao.repositories;
 
-import static ca.vgorcinschi.CommonUtil.localToSql;
+import static ca.vgorcinschi.util.CommonUtil.localToSql;
 import ca.vgorcinschi.dao.repositories.helpers.SurgicalBatchPreparedStatementSetter;
 import ca.vgorcinschi.dao.repositories.helpers.SurgicalTransactionCallback;
 import ca.vgorcinschi.model.Surgical;

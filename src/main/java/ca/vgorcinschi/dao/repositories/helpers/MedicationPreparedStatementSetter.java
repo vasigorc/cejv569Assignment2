@@ -1,6 +1,6 @@
 package ca.vgorcinschi.dao.repositories.helpers;
 
-import static ca.vgorcinschi.CommonUtil.localToSql;
+import static ca.vgorcinschi.util.CommonUtil.localToSql;
 import ca.vgorcinschi.model.Medication;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;

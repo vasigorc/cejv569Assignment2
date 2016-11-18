@@ -1,6 +1,6 @@
 package ca.vgorcinschi.dao.repositories;
 
-import static ca.vgorcinschi.CommonUtil.*;
+import static ca.vgorcinschi.util.CommonUtil.*;
 import ca.vgorcinschi.model.Patient;
 import java.sql.Timestamp;
 import java.util.ArrayList;
